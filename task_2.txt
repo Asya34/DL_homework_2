@@ -1,4 +1,4 @@
-[\s|<|](O|o)([a-zA-Z0-9._%+-]+?)@[a-z0-9.-]+\.[a-z]{2,4}
+[^|<|\s](O|o)([a-zA-Z0-9._%+-]+?)@[a-z0-9.-]+\.[a-z]{2,4}
 33
 Line 5389: To: outlook.team@enron.com
 	Line 10714: To: outlook.team@enron.com
